@@ -12,7 +12,7 @@
     "build": "node build/build.js --watch"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "exif": "^0.6.0",
     "image-conversion": "^1.1.9",
     "less": "^3.0.4",
